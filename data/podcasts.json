@@ -1737,4 +1737,17 @@
       "image": "https://s3.castbox.fm/f2/3a/d7/a3c7254bd2819ad3bcbb3d0edd.jpg",
       "language": "pt_br"
     }
+     {
+      "name": "Fronteiras da Engenharia de Software",
+      "description": "Um podcast para refletir sobre o presente e futuro da engenharia de software.",
+      "status": true,
+      "itunes_link": "https://podcasts.apple.com/us/podcast/fronteiras-da-engenharia-de-software/id1517697751",
+      "website_link": "https://anchor.fm/fronteirasES",
+      "youtube_link": "https://www.youtube.com/channel/UCoMR6kQkALsrDIpbu3nB9tw",
+      "rss_link": "https://anchor.fm/s/248c0568/podcast/rss",
+      "soundclound_link": "",
+      "twitter_at": "fronteirasES",
+      "image": "hhttps://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/6031562/6031562-1591134632076-e8ddfb0fb30c8.jpg",
+      "language": "pt_br"
+    }
 ]
