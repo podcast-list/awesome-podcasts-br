@@ -1736,7 +1736,8 @@
       "twitter_at": "computacaocast",
       "image": "https://s3.castbox.fm/f2/3a/d7/a3c7254bd2819ad3bcbb3d0edd.jpg",
       "language": "pt_br"
-    }
+
+    },
      {
       "name": "Fronteiras da Engenharia de Software",
       "description": "Um podcast para refletir sobre o presente e futuro da engenharia de software.",
@@ -1749,5 +1750,18 @@
       "twitter_at": "fronteirasES",
       "image": "hhttps://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/6031562/6031562-1591134632076-e8ddfb0fb30c8.jpg",
       "language": "pt_br"
-    }
+	},
+	{
+		"name": "Totvs Developers Podcast",
+		"description": "Podcast do Totvs Developers sobre tecnologia,agilidade e comunidade.",
+		"status": true,
+		"itunes_link": "https://podcasts.apple.com/br/podcast/totvs-developers-podcast/id1440520329",
+		"wetotvsbsite_link": "https://developers.totvs.com/podcast/",
+		"youtube_link": "https://www.youtube.com/totvsdevelopers",
+		"rss_link": "https://feeds.buzzsprout.com/774398.rss",
+		"soundclound_link": "",
+		"twitter_at": "TOTVSDevelopers",
+		"image": "https://storage.buzzsprout.com/variants/qipuqoo85mht6xqsfzjffxyy41vs/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpg",
+		"language": "pt_br"
+	  }
 ]
