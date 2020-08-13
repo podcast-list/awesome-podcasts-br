@@ -54,7 +54,10 @@ Issues sobre qualquer outro assunto que não seja adição e atualização de li
 [![Analytics](https://ga-beacon.appspot.com/UA-67879079-1/ogilvieira/dev-podcast-list-brazil)](https://github.com/ogilvieira/dev-podcast-list-brazil)
 
 
+## Licença
+
+MIT
+
 ## Agradecimento
 
 Este projeto não seria possivel graças a iniciativa do @ogilvieira, então muito obrigado pela iniciativa, e para mantermos o projeto sempre atualizado migrei todas as issues para esse novo repositorio e coloquei uma mensagem no repositorio antigo.
-
