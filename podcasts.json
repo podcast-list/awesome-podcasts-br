@@ -1764,4 +1764,17 @@
 		"image": "https://storage.buzzsprout.com/variants/qipuqoo85mht6xqsfzjffxyy41vs/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpg",
 		"language": "pt_br"
 	  }
+  {
+    "name":"Universo Flutter",
+    "description":"Uma pessoa falando do universo de Flutter, a ferramenta para desenvolvimento multiplataforma de aplicações",
+    "status":true,
+    "itunes_link":"https://podcasts.apple.com/es/podcast/universo-flutter/id1503914248",
+    "website_link":"http://deandreamatias.com/",
+    "youtube_link":"",
+    "rss_link":"https://anchor.fm/s/127cd640/podcast/rss",
+    "soundclound_link":"",
+    "twitter_at":"universoflutter",
+    "image":"https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/3001712/3001712-1597787411724-2cb44d4661d65.jpg",
+    "language":"pt_br"
+  }
 ]
