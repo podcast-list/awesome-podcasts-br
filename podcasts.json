@@ -1,4 +1,17 @@
 [{
+		"name": "Laravel Portugal Live",
+		"description": "Os membros do Laravel Portugal reunem-se para falar sobre Laravel, PHP, a comunidade Portuguesa, ideias e muito mais.",
+		"status": true,
+		"itunes_link": false,
+		"website_link": "http://laravel.pt/",
+		"youtube_link": "https://www.youtube.com/channel/UCIbMW1h5VReAQAwJGi_zT3w",
+		"rss_link": false,
+		"soundclound_link": false,
+		"twitter_at": "joselaborges",
+		"image": "https://image.simplecastcdn.com/images/b4873f13-5668-45a7-834c-497d5cf3b209/ac2a9eb4-4a96-4fa0-a911-1b69abef3493/480x480/laravel-portugal-new-logo.jpg",
+		"language": "pt_pt"
+	},
+        {
 		"name": "Aspnetcast",
 		"description": "Seja bem vindo ao asp.net{cast}! Aqui você vai encontrar Hangouts quinzenais sobre diversos assuntos envolvendo a tecnologia Asp.NET! Confira os videos e se inscreva no canal!",
 		"status": true,
