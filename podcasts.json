@@ -1789,5 +1789,18 @@
     "twitter_at":"universoflutter",
     "image":"https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/3001712/3001712-1597787411724-2cb44d4661d65.jpg",
     "language":"pt_br"
+  },
+   {
+    "name":"RebuildCast",
+    "description":"Podcast descontraido sobre assuntos diversos sobre técnologia e desenvolvimento de software",
+    "status":true, 
+    "itunes_link":"https://podcasts.apple.com/br/podcast/rebuildcast/id1533558833?l=en",
+    "website_link":"https://lucasteles.dev/tag/podcast/",
+    "youtube_link":"https://www.youtube.com/user/Lucas1teles",
+    "rss_link":"https://feeds.feedburner.com/Rebuildcast",
+    "soundclound_link":"",
+    "twitter_at":"rebuildcast",
+    "image":"https://pbs.twimg.com/profile_images/1321940539772751874/apYOyCFa_400x400.jpg",
+    "language":"pt_br" 
   }
 ]
